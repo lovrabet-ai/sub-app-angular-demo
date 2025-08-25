@@ -1,0 +1,20 @@
+{
+  "name": "angular-time-app",
+  "version": "1.0.0",
+  "mode": "import",
+  "assets": {
+    "js": [
+      "polyfills-CHJLKLPT.js",
+      "main-LQMU7WCQ.js"
+    ],
+    "css": [
+      "styles-536X67QD.css"
+    ]
+  },
+  "entry": "main-LQMU7WCQ.js",
+  "lifecycle": {
+    "mount": true,
+    "unmount": true,
+    "update": true
+  }
+}
