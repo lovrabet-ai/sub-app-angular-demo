@@ -1,8 +1,12 @@
 # AngularTimeApp
 
 此项目使用 [Angular CLI](https://github.com/angular/angular-cli) 版本 20.2.0 生成。
+用于 Lovrabet 微前端嵌入 Angular 演示使用
 
-## 开发服务器
+效果如图
+![](https://i.yuntooai.com/u/AZjgrXeQcACF-eC7KDNCfA.png)
+
+## 开发
 
 要启动本地开发服务器，请运行：
 
